@@ -14,32 +14,33 @@
 //var n = null; 
 
 //Step 3
-
+//var x = 68 * math.random() + 1/2;
+//var y = 'Jonathan' + 'is' + 25;
 
 //4
-//var sFirstName;
-//var sLastName;
-//var sAddress;
-//var sCity;
-//var sState;
-//var sZipCode;
-//var sYourAge;
-//var sReferralSource; 
-//var bMayWeContactYou; 
+//var strFirstName;
+//var strLastName;
+//var strAddress;
+//var strCity;
+//var strState;
+//var intZipCode;
+//var intYourAge;
+//var strReferralSource; 
+//var blnMayWeContactYou; 
 
 //step 5
-//sring example
-//var sFirstName = 'Jonathan';
-//var sLastName = 'Lancaster';
-//var sAddress = '3227 Mercer Lane';
-//var sCity = 'San Diego';
-//var sState = 'California';
+//string example
+//var strFirstName = 'Jonathan';
+//var strLastName = 'Lancaster';
+//var strAddress = '3227 Mercer Lane';
+//var strCity = 'San Diego';
+//var strState = 'California';
 //numerical example
-//var sZipCode = 92122;
-//var sYourAge = 26;
-//var sReferralSource = 'school';
+//var intZipCode = 92122;
+//var intYourAge = 26;
+//var strReferralSource = 'school';
 //boolean example
-//var bMayWeContactYou = true; 
+//var blnMayWeContactYou = true; 
 
 //step 6
 //var x = 'I am ' + 26;
@@ -128,7 +129,6 @@
 //console.log(widget instanceof Object);
 
 //step 25
-//var x;
 //var widget = new Object();
-//console.log(x instanceof Object);
+//console.log(!widget instanceof Object);
 
