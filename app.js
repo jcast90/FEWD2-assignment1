@@ -1,10 +1,10 @@
 //step 1  
 
 //var someMonth;
-//function theMonth 		// function to return current month
+//function theMonth() 		// function to return current month
 //currentMonth 		// a constant
 //var summerMonth; 		// an array of summer months
-//function myLibraryAfunction 	// a function 
+//function myLibraryAFunction() 	// a function 
 
 
 //Step 2
